@@ -25,8 +25,6 @@ You can click the Preview link to take a look at your changes.
  
  https://www.afreespace.com/
  
- https://talkdesk.com/
- 
  https://www.heroku.com/
  
  https://www.papercut.com/tour/direct-printing/
