@@ -23,8 +23,6 @@ You can click the Preview link to take a look at your changes.
  
  https://envoy.com/
  
- https://www.afreespace.com/
- 
  https://www.heroku.com/
  
  https://www.papercut.com/tour/direct-printing/
