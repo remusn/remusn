@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 ​- IT Stuff I like in no particular order:
 
+ https://afi.ai/
+ 
  https://www.automox.com/ 
  
  https://www.assetsonar.com/
@@ -17,18 +19,10 @@ You can click the Preview link to take a look at your changes.
  
  https://1.1.1.1/
  
- https://www.crowdstrike.com/
- 
- https://envoy.com/
- 
- https://www.heroku.com/
- 
  https://www.papercut.com/tour/direct-printing/
  
  https://chrome.google.com/webstore/detail/endpoint-verification/callobklhcbilhphinckomhgkigmfocg
- 
- https://afi.ai/
- 
+  
  https://github.com/GAM-team/GAM/wiki
  
  https://sites.google.com/jis.edu.bn/gam-commands/home
