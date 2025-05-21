@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
  
  https://www.google.com/appsstatus/dashboard/
  
+ http://nextdns.io
+ 
  https://tailscale.com/
  
  https://bitwarden.com/
